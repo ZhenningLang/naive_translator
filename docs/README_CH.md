@@ -23,19 +23,19 @@ pip3 install naive_translator
 
 ### 1.3 以 Http 服务的形式使用
 
-执行下面的命令在端口 `6000` 开启服务
+执行下面的命令在端口 `8001` 开启服务
 
 ```bash
-naive_translator 6000
+naive_translator 8001
 ```
 
 访问下面所列的接口
 
 |Url|Explanation|
 |:---|:---|
-|http://localhost:6000|A welcome page|
-|http://localhost:6000/dicts|List all available dictionaries|
-|http://localhost:6000/translate?dict=&text=|Translate|
+|http://localhost:8001|A welcome page|
+|http://localhost:8001/dicts|List all available dictionaries|
+|http://localhost:8001/translate?dict=&text=|Translate|
 
 ## 其他
 

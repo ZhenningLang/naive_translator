@@ -29,16 +29,16 @@ pip3 install naive_translator
 To start the server, run the following command
 
 ```bash
-naive_translator 6000
+naive_translator 8001
 ```
 
 Then you could visit
 
 |Url|Explanation|
 |:---|:---|
-|http://localhost:6000|A welcome page|
-|http://localhost:6000/dicts|List all available dictionaries|
-|http://localhost:6000/translate?dict=&text=|Translate|
+|http://localhost:8001|A welcome page|
+|http://localhost:8001/dicts|List all available dictionaries|
+|http://localhost:8001/translate?dict=&text=|Translate|
 
 ## Others
 
