@@ -5,7 +5,7 @@ A very simple translator based on a word to word dictionary
 (Though this project is designed to convert traditional 
 Chinese to simplified, it owns the ability to do more things.)
 
-[Chinese Doc](/docs/README_CH.md)
+[Chinese Doc](docs/README_CH.md)
 
 ## 1. How to Use
 
@@ -42,5 +42,5 @@ Then you could visit
 
 ## Others
 
-- Dictionaries are placed in `naive_translator/data` directory
+- Dictionary files are placed in `naive_translator/data` directory
 - Configure file is `naive_translator/config.py`
